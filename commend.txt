@@ -1,6 +1,0 @@
-训练：
-python train.py --img 640 --batch 32 --epochs 100 --data ./datasets/data.yaml --cfg models/yolov5n.yaml --weights weights/yolov5n.pt
-python train.py --img 640 --batch 16 --epochs 100 --data ./datasets/data.yaml --cfg models/yolov5s.yaml --weights weights/yolov5s.pt
-python train.py --img 640 --batch 16 --epochs 100 --data ./datasets/data.yaml --cfg models/yolov5m.yaml --weights weights/yolov5m.pt
-
-推理：
