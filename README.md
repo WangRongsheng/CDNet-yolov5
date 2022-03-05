@@ -2,7 +2,7 @@
 
 # CDNet-yolov5
 
-《CDNet：一个基于YOLOv5的在Jetson Nano上实时、鲁棒的斑马线检测网络》论文的原生（ultralytics）yolov5训练、推理仓库，CDNet (Crosswalk Detection Network) 是车载摄像头视野下检测斑马线（人行横道）和分析车辆过线行为的具体实现。
+《CDNet：一个基于YOLOv5的在Jetson Nano上实时、鲁棒的斑马线检测网络》论文的原生（ultralytics）yolov5训练、推理baseline仓库，CDNet (Crosswalk Detection Network) 是车载摄像头视野下检测斑马线（人行横道）和分析车辆过线行为的具体实现。
 
 > 在这里我们不考虑边缘端的部署优化，在高端设备训练推理。**即该仓库只是在最新的yolov5下训练了原作者的已有的数据集并且提供了训练好的模型**。我们十分感谢原作者的贡献，并感谢他们的创造！
 
