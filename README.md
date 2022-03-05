@@ -64,3 +64,15 @@ python detect.py --data dataset/data.yaml --weights runs/train/exp【x】/weight
                                                                                                         'https://youtu.be/Zgi9g1ksQHc'  # YouTube
                                                                                                         'rtsp://example.com/media.mp4'  # RTSP, RTMP, HTTP stream
 ```
+# 导出Export
+
+[TFLite, ONNX, CoreML, TensorRT Export](https://github.com/ultralytics/yolov5/issues/251)
+
+# 比较Compare
+
+|推断方式|是否使用GPU|单张图片推断时间|
+|:-|:-|:-|
+|pytorch|✅|0.041s|
+|pytorch||0.450s|
+|onnx||0.065s|
+|tensorRT|✅|0.040s|
