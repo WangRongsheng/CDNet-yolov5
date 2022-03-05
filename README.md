@@ -42,6 +42,14 @@ python train.py --data datasets/data.yaml --cfg models/yolov5n.yaml --weights we
                                                        yolov5x                        yolov5x.pt              16
 ```
 
+效果：
+
+|Model|Size|mAP(val)@.5:.95|params|Usage|
+|:-|:-|:-|:-|:-|
+|yolov5n|640|0.792|3.65|-|
+
+> Epochs：100 Batch-Size：32 VGPU
+
 # 推理Inference
 
 ```python
