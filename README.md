@@ -46,9 +46,9 @@ python train.py --data datasets/data.yaml --cfg models/yolov5n.yaml --weights we
 
 # 权重Weights
 
-|Model|Size|mAP(val)@.5:.95|params|Download|
-|:-|:-|:-|:-|:-|
-|yolov5n|640|0.792|3.65|[exp1/weights](https://github.com/WangRongsheng/CDNet-yolov5/tree/main/runs/train/exp1/weights)|
+|Model|Size|mAP(val)@.5:.95|params|GFLOPs|Download|
+|:-|:-|:-|:-|:-|:-|
+|yolov5n|640|0.792|3.65|4.2|[exp1/weights](https://github.com/WangRongsheng/CDNet-yolov5/tree/main/runs/train/exp1/weights)|
 
 > Epochs：100 Batch-Size：32 VGPU
 
