@@ -56,8 +56,8 @@ python train.py --data datasets/data.yaml --cfg models/yolov5n.yaml --weights we
 
 ```python
 # 【x】是第几次训练的权重
-python detect.py --data dataset/data.yaml --weights runs/train/exp【x】/weights/best.pt --device 0 --source 0  # 摄像头
-                                                                                                        img.jpg  # 图片
+python detect.py --data datasets/data.yaml --weights runs/train/exp【x】/weights/best.pt --device 0 --source 0  # 摄像头
+                                                                                                  cpu   img.jpg  # 图片
                                                                                                         vid.mp4  # 视频
                                                                                                         path/  # directory
                                                                                                         path/*.jpg  # glob
