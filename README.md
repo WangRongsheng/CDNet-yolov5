@@ -18,8 +18,8 @@
 
 # 数据集Datasets
 
-- 训练集及验证集：3880
-- 测试集：1770
+- 训练集及验证集：3880 [下载(passwd: hul6)](https://pan.baidu.com/s/1jAsQ_kbU7cX0AqK4wDm6LA)
+- 测试集：1770  [下载(passwd: vj6b)](https://pan.baidu.com/s/1-AWw2AjE8zTP-iVjOoifOg)
 - 类别：crosswalk, guide_arrows
 
 [more](https://github.com/zhangzhengde0225/CDNet/blob/master/docs/DATASETS.md)
