@@ -42,7 +42,7 @@ python train.py --data datasets/data.yaml --cfg models/yolov5n.yaml --weights we
                                                        yolov5x                        yolov5x.pt              16
 ```
 
-效果：
+# 权重Weights
 
 |Model|Size|mAP(val)@.5:.95|params|Usage|
 |:-|:-|:-|:-|:-|
