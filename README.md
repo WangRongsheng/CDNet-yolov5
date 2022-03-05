@@ -3,4 +3,4 @@
 
 原始CDNet论文的Code：[https://github.com/zhangzhengde0225/CDNet](https://github.com/zhangzhengde0225/CDNet)
 
-当前使用的Yolov5版本：V6
+当前使用的Yolov5版本：V6.1
