@@ -72,7 +72,7 @@ python detect.py --data datasets/data.yaml --weights runs/train/exp【x】/weigh
 
 |推断方式|是否使用GPU|单张图片推断时间|
 |:-|:-|:-|
-|pytorch|✅|0.041s|
-|pytorch||0.450s|
-|onnx||0.065s|
-|tensorRT|✅|0.040s|
+|pytorch|✅|0.010s|
+|pytorch||0.083s|
+|onnx|-|-|
+|tensorRT|-|-|
