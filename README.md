@@ -50,6 +50,7 @@ python train.py --data datasets/data.yaml --cfg models/yolov5n.yaml --weights we
 |:-|:-|:-|:-|:-|:-|
 |yolov5n|640|0.792|3.65|4.2|[exp1/weights](https://github.com/WangRongsheng/CDNet-yolov5/tree/main/runs/train/exp1/weights)|
 |yolov5s|640|0.816|13.6|15.8|[exp2/weights](https://github.com/WangRongsheng/CDNet-yolov5/tree/main/runs/train/exp2/weights)|
+|yolov5m|640|0.830|40.2|48.0|[exp3/weights](https://github.com/WangRongsheng/CDNet-yolov5/tree/main/runs/train/exp3/weights)|
 
 > Epochs：100 Batch-Size：32 VGPU
 
